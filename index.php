@@ -16,7 +16,7 @@
             // initial hex value
             $hex = '#000000';
             // number of shades
-            $color_nums = 50
+            $color_nums = 50;
             for($i = 0; $i < $color_nums; $i++) {
                 // get diff to add to each r g and b value
                 $diff = 255 / $color_nums;
