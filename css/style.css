@@ -7,28 +7,26 @@ body {
   width:100%;
   margin:0;
 }
-#g {
-  height:100%;
-  width:100%;
-}
-#g div {
+.grey {
   cursor:pointer;
   position:relative;
   width:10%;
   min-height:20%;
   float:left;
 }
-#g div span {
-  font-family:sans-serif;
+.clear {
+  clear:both;
+}
+.hex {
+  font-family:Helvetica,sans-serif;
   font-size:10px;
   text-transform:uppercase;
   color:#8ba7b8;
   text-shadow:0 0 3px #8ba7b8;
   box-shadow:0 0 3px 2px #8ba7b8;
   padding:2px;
-  background:#000;
-  position:absolute;
-  top:3px;
+  background-color:black;
+  position:absolute;top:3px;
   right:3px;
   display:none;
   cursor:text;
