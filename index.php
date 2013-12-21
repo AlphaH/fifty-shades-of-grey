@@ -2,7 +2,6 @@
 <html>
     <head>
         <title>Fifty Shades of Grey</title>
-        <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
         <link rel="image_src" href="preview.png" />
         <link rel="stylesheet" type="text/css" href="css/reset.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
