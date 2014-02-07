@@ -25,7 +25,7 @@
                 $rgb['b'] += $diff;
                 $hex = rgb_to_hex($rgb);
                 // print the div with the color
-                printf('<div id="%1$d" class="grey" style="background-color:%2$s;""><span class="hex">%2$s</span></div>', $i, $hex);
+                printf('<div id="%1$d" class="grey" style="background-color:%2$s;"><span class="hex">%2$s</span></div>', $i, $hex);
             }
         ?>
     </body>
